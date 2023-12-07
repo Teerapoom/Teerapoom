@@ -8,7 +8,7 @@ Currently studying at Walailak University. I am an information technology studen
 
 * 🌍  I'm based in Chumphon
 * ✉️  You can contact me at [teerapoom.code@gmail.com](mailto:teerapoom.code@gmail.com)
-* 🧠  I'm learning Python django
+* 🧠  I'm learning Node.js
 
 ### Skills
 
