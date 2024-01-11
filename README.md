@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Welcome To My Profile 📁
 -----------------------------------
 
-Currently studying at Walailak University. I am an information technology student. I'm interested in - BackEnd 🌕 - API 📨
+The BackEnd is important for managing data received from the FronEnd and managing access rights. Good data management makes your website or app more efficient.
+I'm interested in - BackEnd 🌕 - API 📨
 
 * 🌍  I'm based in Chumphon
 * ✉️  You can contact me at [teerapoom.code@gmail.com](mailto:teerapoom.code@gmail.com)
